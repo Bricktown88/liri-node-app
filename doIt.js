@@ -11,7 +11,6 @@ let doItFunction = function() {
       
         let output = data.split(",");
         let search = output[1];
-        console.log(search);
         spotify(search);
       });
 }
