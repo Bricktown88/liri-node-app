@@ -25,7 +25,7 @@ The liri.js file seen below acts as the central hub for the entire application.
     * 'do-what-it-says' (uses stored text in a random.txt file)
         * _Ex: node liri.js do-what-it-says_
 
-#### Concerts
+### Concerts
 Suppose we wanted to find information about Maroon 5's next concert stop.
 
 Enter the following into your terminal (*make sure to double check your location*)
@@ -34,7 +34,7 @@ Enter the following into your terminal (*make sure to double check your location
 When we hit enter, we should see some details returned to our console:
 ![liri](./images/concertResult.png)
 
-#### Songs
+### Songs
 Suppose we wanted to find information about that "Umbrella" song we can't get out of our head.
 
 Enter the following into your terminal (*make sure to double check your location*)
@@ -43,7 +43,7 @@ Enter the following into your terminal (*make sure to double check your location
 And the result: (*Control + Click on the Preview URL to go directly to the artist's page*)
 ![liri](./images/spotifyResult.png)
 
-#### Movies
+### Movies
 
 What year did 'Pulp Fiction' come out?
 
@@ -53,7 +53,7 @@ Enter the following into your terminal (*make sure to double check your location
 Result:
 ![liri](./images/movieResult.png)
 
-#### "do-what-it-says"
+### "do-what-it-says"
 
 This feature isn't really practical for a user but was an assignment requirement. 
 Inputting "node liri do-what-it-says" into the command line will read a random.txt file, split the array, and run the Spotify function based on the song in the file. Example:
