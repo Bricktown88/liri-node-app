@@ -1,9 +1,9 @@
 # liri-node-app
 
 The purpose of this tool is to call various APIs and return their objects via the command line. A user can:
-    *Find concerts for a particular band or artist via the bandsintown API
-    *Find specific song details via the Spotify API
-    *Find specific movie details via the OMDB API
+    * Find concerts for a particular band or artist via the bandsintown API
+    * Find specific song details via the Spotify API
+    * Find specific movie details via the OMDB API
 
 ## Let's take a look at how it works.
 
@@ -16,13 +16,13 @@ The liri.js file seen below acts as the central hub for the entire application.
 *In the command prompt*, a user of the liri tool starts by choosing one of the following commands and pairing it with a relevant search term:
 
     * 'concert-this' (band or artist)
-        * *Ex: node liri.js concert-this maroon 5*
+        * _Ex: node liri.js concert-this maroon 5_
     * 'spotify-this-song' (song)
-        * *Ex: node liri.js spotify-this-song umbrella*
+        * _Ex: node liri.js spotify-this-song umbrella_
     * 'movie-this' (movie)
-        * *Ex: node liri.js movie-this pulp fiction*
+        * _Ex: node liri.js movie-this pulp fiction_
     * 'do-what-it-says' (uses stored text in a random.txt file)
-        * *Ex: node liri.js do-what-it-says*
+        * _Ex: node liri.js do-what-it-says_
 
 #### Concerts
 Suppose we wanted to find information about Maroon 5's next concert stop.
