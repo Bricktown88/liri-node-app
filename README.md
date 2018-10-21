@@ -14,6 +14,7 @@ The liri.js file seen below acts as the central hub for the entire application.
 ![liri](./images/liri.png)
 
 *In the command prompt*, a user of the liri tool starts by choosing one of the following commands and pairing it with a relevant search term:
+
     * 'concert-this' (band or artist)
         * *Ex: node liri.js concert-this maroon 5*
     * 'spotify-this-song' (song)
