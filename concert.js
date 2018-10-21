@@ -10,10 +10,10 @@ let concertThis = function (searchTerm) {
                 let object = JSON.parse(body)[0];
 
                 let prettyObject = `***************
-band: ${object.lineup}
-name: ${object.venue.name}
-location: ${object.venue.city}
-date: ${moment(object.datetime).format("MM-DD-YYYY")}
+Band: ${object.lineup}
+Name: ${object.venue.name}
+Location: ${object.venue.city}
+Date: ${moment(object.datetime).format("MM-DD-YYYY")}
 `;
                 console.log(prettyObject);
                 fs.appendFile('log.txt', prettyObject, function (err) {

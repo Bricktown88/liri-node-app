@@ -64,3 +64,42 @@ Artist: Backstreet Boys
 Song: I Want It That Way
 Album: The Hits--Chapter One
 Preview: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+***************
+band: Maroon 5
+name: Mandalay Bay Events Center
+location: Las Vegas
+date: 12-30-2018
+***************
+band: Maroon 5
+name: Mandalay Bay Events Center
+location: Las Vegas
+date: 12-30-2018
+***************
+band: Maroon 5
+name: Mandalay Bay Events Center
+location: Las Vegas
+date: 12-30-2018
+***************
+Band: Maroon 5
+Name: Mandalay Bay Events Center
+Location: Las Vegas
+Date: 12-30-2018
+***************
+Band: Maroon 5
+Name: Mandalay Bay Events Center
+Location: Las Vegas
+Date: 12-30-2018
+***************
+Artist: Rihanna
+Song: Umbrella
+Album: Good Girl Gone Bad: Reloaded
+Preview: https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7
+***************
+Title: Pulp Fiction
+Release Date: 1994
+IMDB Rating: 8.9/10
+Rotten Tomatoes: 94%
+Country of Origin: USA
+Language: English, Spanish, French
+Plot: The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
