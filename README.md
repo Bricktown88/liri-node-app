@@ -1,6 +1,7 @@
 # liri-node-app
 
 The purpose of this tool is to call various APIs and return their objects via the command line. A user can:
+
     * Find concerts for a particular band or artist via the bandsintown API
     * Find specific song details via the Spotify API
     * Find specific movie details via the OMDB API
