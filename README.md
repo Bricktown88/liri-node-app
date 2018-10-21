@@ -59,6 +59,7 @@ This feature isn't really practical for a user but was an assignment requirement
 Inputting "node liri do-what-it-says" into the command line will read a random.txt file, split the array, and run the Spotify function based on the song in the file. Example:
 
 Contents of the random.txt file:
+
 ![liri](./images/randomContents.png)
 
 Result of inputting "node liri do-what-it-says":
